@@ -34,7 +34,7 @@ public class SceneLoader : MonoBehaviour
             case (SceneName.DeathScene):
                 SceneManager.LoadScene("Death Scene");
                 break;
-       
+
         }
     }
 

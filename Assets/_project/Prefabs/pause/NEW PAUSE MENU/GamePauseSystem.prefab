@@ -3714,7 +3714,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   PauseMenu: {fileID: 8872012511188631603}
-  firstSelectedMain: {fileID: 0}
 --- !u!1 &7088338215349126876
 GameObject:
   m_ObjectHideFlags: 0
@@ -4490,8 +4489,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   MainPauseMenu: {fileID: 286196729878901013}
   PauseOptionsMenu: {fileID: 5285903021240728701}
-  firstSelectedMain: {fileID: 0}
-  firstSelectedOptions: {fileID: 0}
 --- !u!1 &9118627147924372547
 GameObject:
   m_ObjectHideFlags: 0

@@ -31761,6 +31761,10 @@ PrefabInstance:
       propertyPath: m_AnchoredPosition.y
       value: -210
       objectReference: {fileID: 0}
+    - target: {fileID: 7390528231683011021, guid: 6267f1b900540fc439d628f010e5a187, type: 3}
+      propertyPath: UIEventSystem
+      value: 
+      objectReference: {fileID: 449951098}
     - target: {fileID: 8290833494536129509, guid: 6267f1b900540fc439d628f010e5a187, type: 3}
       propertyPath: m_AnchorMax.y
       value: 0

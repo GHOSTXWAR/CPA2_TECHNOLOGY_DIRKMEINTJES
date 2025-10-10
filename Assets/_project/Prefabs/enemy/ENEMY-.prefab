@@ -282,7 +282,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   wayPoints: {fileID: 0}
   Target: {fileID: 0}
-  AttackDistance: 1
+  AttackDistance: 6
 --- !u!1 &6172240903733312664
 GameObject:
   m_ObjectHideFlags: 0

@@ -1,4 +1,4 @@
-Library: C:\Users\thoma\GITHUB_UNITY_TECHNOLOGY\CPA2_TECHNOLOGY_DIRKMEINTJES\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_generated
+Library: C:\Users\thoma\GITHUB_UNITY_TECHNOLOGY\DIRK_MEINTJES_CPA2_GAME_PRODUCTIONS\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_generated
 --platform=Windows
 --minimum-os-version=
 --backend=burst-llvm-19
@@ -10,12 +10,12 @@ Library: C:\Users\thoma\GITHUB_UNITY_TECHNOLOGY\CPA2_TECHNOLOGY_DIRKMEINTJES\Tem
 --float-precision=Standard
 --target-framework=NetFramework
 --float-mode=Fast
---linker-options=PdbAltPath="TECH-CPA1_Data/Plugins/x86_64/lib_burst_generated.pdb"
+--linker-options=PdbAltPath="CPA2_GAMEPRODUCTIONS_Data/Plugins/x86_64/lib_burst_generated.pdb"
 --generate-link-xml=Temp\burst.link.xml
---temp-folder=C:\Users\thoma\GITHUB_UNITY_TECHNOLOGY\CPA2_TECHNOLOGY_DIRKMEINTJES\Temp\Burst
+--temp-folder=C:\Users\thoma\GITHUB_UNITY_TECHNOLOGY\DIRK_MEINTJES_CPA2_GAME_PRODUCTIONS\Temp\Burst
 --key-folder=C:/Program Files/Unity/Hub/Editor/6000.1.15f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
---decode-folder=C:\Users\thoma\GITHUB_UNITY_TECHNOLOGY\CPA2_TECHNOLOGY_DIRKMEINTJES\Library\Burst
---output=C:\Users\thoma\GITHUB_UNITY_TECHNOLOGY\CPA2_TECHNOLOGY_DIRKMEINTJES\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_generated
+--decode-folder=C:\Users\thoma\GITHUB_UNITY_TECHNOLOGY\DIRK_MEINTJES_CPA2_GAME_PRODUCTIONS\Library\Burst
+--output=C:\Users\thoma\GITHUB_UNITY_TECHNOLOGY\DIRK_MEINTJES_CPA2_GAME_PRODUCTIONS\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_generated
 --pdb-search-paths=Temp/ManagedSymbols/
 
 --method=Unity.Jobs.IJobForExtensions+ForJobStruct`1[[UnityEngine.Rendering.Universal.ZBinningJob, Unity.RenderPipelines.Universal.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]], UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::Execute(UnityEngine.Rendering.Universal.ZBinningJob&, Unity.RenderPipelines.Universal.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|Unity.Jobs.LowLevel.Unsafe.JobRanges&, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089)--77fc393cb521ac129b1392d4eb94d29a
@@ -31,12 +31,12 @@ Library: C:\Users\thoma\GITHUB_UNITY_TECHNOLOGY\CPA2_TECHNOLOGY_DIRKMEINTJES\Tem
 --float-precision=Standard
 --target-framework=NetFramework
 --float-mode=Fast
---linker-options=PdbAltPath="TECH-CPA1_Data/Plugins/x86_64/lib_burst_generated.pdb"
+--linker-options=PdbAltPath="CPA2_GAMEPRODUCTIONS_Data/Plugins/x86_64/lib_burst_generated.pdb"
 --generate-link-xml=Temp\burst.link.xml
---temp-folder=C:\Users\thoma\GITHUB_UNITY_TECHNOLOGY\CPA2_TECHNOLOGY_DIRKMEINTJES\Temp\Burst
+--temp-folder=C:\Users\thoma\GITHUB_UNITY_TECHNOLOGY\DIRK_MEINTJES_CPA2_GAME_PRODUCTIONS\Temp\Burst
 --key-folder=C:/Program Files/Unity/Hub/Editor/6000.1.15f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
---decode-folder=C:\Users\thoma\GITHUB_UNITY_TECHNOLOGY\CPA2_TECHNOLOGY_DIRKMEINTJES\Library\Burst
---output=C:\Users\thoma\GITHUB_UNITY_TECHNOLOGY\CPA2_TECHNOLOGY_DIRKMEINTJES\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_generated
+--decode-folder=C:\Users\thoma\GITHUB_UNITY_TECHNOLOGY\DIRK_MEINTJES_CPA2_GAME_PRODUCTIONS\Library\Burst
+--output=C:\Users\thoma\GITHUB_UNITY_TECHNOLOGY\DIRK_MEINTJES_CPA2_GAME_PRODUCTIONS\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_generated
 --pdb-search-paths=Temp/ManagedSymbols/
 
 --method=Unity.Jobs.IJobForExtensions+ForJobStruct`1[[UnityEngine.Rendering.Universal.ZBinningJob, Unity.RenderPipelines.Universal.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]], UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::Execute(UnityEngine.Rendering.Universal.ZBinningJob&, Unity.RenderPipelines.Universal.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|Unity.Jobs.LowLevel.Unsafe.JobRanges&, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089)--77fc393cb521ac129b1392d4eb94d29a
@@ -50,12 +50,12 @@ Library: C:\Users\thoma\GITHUB_UNITY_TECHNOLOGY\CPA2_TECHNOLOGY_DIRKMEINTJES\Tem
 --dump=Function
 --float-precision=Standard
 --target-framework=NetFramework
---linker-options=PdbAltPath="TECH-CPA1_Data/Plugins/x86_64/lib_burst_generated.pdb"
+--linker-options=PdbAltPath="CPA2_GAMEPRODUCTIONS_Data/Plugins/x86_64/lib_burst_generated.pdb"
 --generate-link-xml=Temp\burst.link.xml
---temp-folder=C:\Users\thoma\GITHUB_UNITY_TECHNOLOGY\CPA2_TECHNOLOGY_DIRKMEINTJES\Temp\Burst
+--temp-folder=C:\Users\thoma\GITHUB_UNITY_TECHNOLOGY\DIRK_MEINTJES_CPA2_GAME_PRODUCTIONS\Temp\Burst
 --key-folder=C:/Program Files/Unity/Hub/Editor/6000.1.15f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
---decode-folder=C:\Users\thoma\GITHUB_UNITY_TECHNOLOGY\CPA2_TECHNOLOGY_DIRKMEINTJES\Library\Burst
---output=C:\Users\thoma\GITHUB_UNITY_TECHNOLOGY\CPA2_TECHNOLOGY_DIRKMEINTJES\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_generated
+--decode-folder=C:\Users\thoma\GITHUB_UNITY_TECHNOLOGY\DIRK_MEINTJES_CPA2_GAME_PRODUCTIONS\Library\Burst
+--output=C:\Users\thoma\GITHUB_UNITY_TECHNOLOGY\DIRK_MEINTJES_CPA2_GAME_PRODUCTIONS\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_generated
 --pdb-search-paths=Temp/ManagedSymbols/
 
 --method=Unity.Jobs.IJobParallelForExtensions+ParallelForJobStruct`1[[Unity.Collections.SortJob`2+SegmentSort[[System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[Unity.Collections.NativeSortExtension+DefaultComparer`1[[System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]], Unity.Collections, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]], Unity.Collections, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]], UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::Execute(Unity.Collections.SortJob`2+SegmentSort[[System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[Unity.Collections.NativeSortExtension+DefaultComparer`1[[System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]], Unity.Collections, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]]&, Unity.Collections, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|Unity.Jobs.LowLevel.Unsafe.JobRanges&, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089)--82ff8baa2abd920945d7abccccedb808
@@ -104,12 +104,12 @@ Library: C:\Users\thoma\GITHUB_UNITY_TECHNOLOGY\CPA2_TECHNOLOGY_DIRKMEINTJES\Tem
 --dump=Function
 --float-precision=Standard
 --target-framework=NetFramework
---linker-options=PdbAltPath="TECH-CPA1_Data/Plugins/x86_64/lib_burst_generated.pdb"
+--linker-options=PdbAltPath="CPA2_GAMEPRODUCTIONS_Data/Plugins/x86_64/lib_burst_generated.pdb"
 --generate-link-xml=Temp\burst.link.xml
---temp-folder=C:\Users\thoma\GITHUB_UNITY_TECHNOLOGY\CPA2_TECHNOLOGY_DIRKMEINTJES\Temp\Burst
+--temp-folder=C:\Users\thoma\GITHUB_UNITY_TECHNOLOGY\DIRK_MEINTJES_CPA2_GAME_PRODUCTIONS\Temp\Burst
 --key-folder=C:/Program Files/Unity/Hub/Editor/6000.1.15f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
---decode-folder=C:\Users\thoma\GITHUB_UNITY_TECHNOLOGY\CPA2_TECHNOLOGY_DIRKMEINTJES\Library\Burst
---output=C:\Users\thoma\GITHUB_UNITY_TECHNOLOGY\CPA2_TECHNOLOGY_DIRKMEINTJES\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_generated
+--decode-folder=C:\Users\thoma\GITHUB_UNITY_TECHNOLOGY\DIRK_MEINTJES_CPA2_GAME_PRODUCTIONS\Library\Burst
+--output=C:\Users\thoma\GITHUB_UNITY_TECHNOLOGY\DIRK_MEINTJES_CPA2_GAME_PRODUCTIONS\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_generated
 --pdb-search-paths=Temp/ManagedSymbols/
 
 --method=Unity.Jobs.IJobParallelForExtensions+ParallelForJobStruct`1[[Unity.Collections.SortJob`2+SegmentSort[[System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[Unity.Collections.NativeSortExtension+DefaultComparer`1[[System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]], Unity.Collections, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]], Unity.Collections, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]], UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::Execute(Unity.Collections.SortJob`2+SegmentSort[[System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[Unity.Collections.NativeSortExtension+DefaultComparer`1[[System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]], Unity.Collections, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]]&, Unity.Collections, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|Unity.Jobs.LowLevel.Unsafe.JobRanges&, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089)--82ff8baa2abd920945d7abccccedb808
@@ -158,12 +158,12 @@ Library: C:\Users\thoma\GITHUB_UNITY_TECHNOLOGY\CPA2_TECHNOLOGY_DIRKMEINTJES\Tem
 --dump=Function
 --float-precision=Standard
 --target-framework=NetFramework
---linker-options=PdbAltPath="TECH-CPA1_Data/Plugins/x86_64/lib_burst_generated.pdb"
+--linker-options=PdbAltPath="CPA2_GAMEPRODUCTIONS_Data/Plugins/x86_64/lib_burst_generated.pdb"
 --generate-link-xml=Temp\burst.link.xml
---temp-folder=C:\Users\thoma\GITHUB_UNITY_TECHNOLOGY\CPA2_TECHNOLOGY_DIRKMEINTJES\Temp\Burst
+--temp-folder=C:\Users\thoma\GITHUB_UNITY_TECHNOLOGY\DIRK_MEINTJES_CPA2_GAME_PRODUCTIONS\Temp\Burst
 --key-folder=C:/Program Files/Unity/Hub/Editor/6000.1.15f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
---decode-folder=C:\Users\thoma\GITHUB_UNITY_TECHNOLOGY\CPA2_TECHNOLOGY_DIRKMEINTJES\Library\Burst
---output=C:\Users\thoma\GITHUB_UNITY_TECHNOLOGY\CPA2_TECHNOLOGY_DIRKMEINTJES\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_generated
+--decode-folder=C:\Users\thoma\GITHUB_UNITY_TECHNOLOGY\DIRK_MEINTJES_CPA2_GAME_PRODUCTIONS\Library\Burst
+--output=C:\Users\thoma\GITHUB_UNITY_TECHNOLOGY\DIRK_MEINTJES_CPA2_GAME_PRODUCTIONS\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_generated
 --pdb-search-paths=Temp/ManagedSymbols/
 
 --method=UnityEngine.Rendering.GPUResidentDrawerBurst, Unity.RenderPipelines.GPUDriven.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::ClassifyMaterials(Unity.Collections.NativeArray`1[[System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]&, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|Unity.Collections.NativeParallelHashMap`2+ReadOnly[[System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[UnityEngine.Rendering.BatchMaterialID, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]]&, Unity.Collections, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|Unity.Collections.NativeList`1[[System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]&, Unity.Collections, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|Unity.Collections.NativeList`1[[System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]&, Unity.Collections, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|Unity.Collections.NativeList`1[[UnityEngine.Rendering.GPUDrivenPackedMaterialData, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]]&, Unity.Collections, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null)--f259e9421b556600f769263137cdc7bc
@@ -275,12 +275,12 @@ Library: C:\Users\thoma\GITHUB_UNITY_TECHNOLOGY\CPA2_TECHNOLOGY_DIRKMEINTJES\Tem
 --dump=Function
 --float-precision=Standard
 --target-framework=NetFramework
---linker-options=PdbAltPath="TECH-CPA1_Data/Plugins/x86_64/lib_burst_generated.pdb"
+--linker-options=PdbAltPath="CPA2_GAMEPRODUCTIONS_Data/Plugins/x86_64/lib_burst_generated.pdb"
 --generate-link-xml=Temp\burst.link.xml
---temp-folder=C:\Users\thoma\GITHUB_UNITY_TECHNOLOGY\CPA2_TECHNOLOGY_DIRKMEINTJES\Temp\Burst
+--temp-folder=C:\Users\thoma\GITHUB_UNITY_TECHNOLOGY\DIRK_MEINTJES_CPA2_GAME_PRODUCTIONS\Temp\Burst
 --key-folder=C:/Program Files/Unity/Hub/Editor/6000.1.15f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
---decode-folder=C:\Users\thoma\GITHUB_UNITY_TECHNOLOGY\CPA2_TECHNOLOGY_DIRKMEINTJES\Library\Burst
---output=C:\Users\thoma\GITHUB_UNITY_TECHNOLOGY\CPA2_TECHNOLOGY_DIRKMEINTJES\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_generated
+--decode-folder=C:\Users\thoma\GITHUB_UNITY_TECHNOLOGY\DIRK_MEINTJES_CPA2_GAME_PRODUCTIONS\Library\Burst
+--output=C:\Users\thoma\GITHUB_UNITY_TECHNOLOGY\DIRK_MEINTJES_CPA2_GAME_PRODUCTIONS\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_generated
 --pdb-search-paths=Temp/ManagedSymbols/
 
 --method=UnityEngine.Rendering.GPUResidentDrawerBurst, Unity.RenderPipelines.GPUDriven.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::ClassifyMaterials(Unity.Collections.NativeArray`1[[System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]&, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|Unity.Collections.NativeParallelHashMap`2+ReadOnly[[System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[UnityEngine.Rendering.BatchMaterialID, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]]&, Unity.Collections, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|Unity.Collections.NativeList`1[[System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]&, Unity.Collections, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|Unity.Collections.NativeList`1[[System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]&, Unity.Collections, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|Unity.Collections.NativeList`1[[UnityEngine.Rendering.GPUDrivenPackedMaterialData, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]]&, Unity.Collections, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null)--f259e9421b556600f769263137cdc7bc
